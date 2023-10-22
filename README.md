@@ -18,5 +18,5 @@ Los datos del proyecto vienen de [la competencia Kaggle Predict CO2 Emissions in
 
 # Vídeos
 
-* Video 1
+* [Video 1](https://youtu.be/BQZJxuXdGqU)
 * Video 2
